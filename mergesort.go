@@ -1,4 +1,4 @@
-package cola_prioridad
+package mergesort
 
 func MergeSort(arr []int) []int {
 	if len(arr) < 2 {
