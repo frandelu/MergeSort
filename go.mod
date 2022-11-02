@@ -1,3 +1,3 @@
-module github.com/frandelu/MergeSort.git
+module github.com/frandelu/MergeSort
 
 go 1.18
