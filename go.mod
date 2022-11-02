@@ -1,3 +1,3 @@
-module mergesort
+module merge
 
 go 1.18
